@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+<Plugin>True</Plugin>
+<PluginURL>https://raw.githubusercontent.com/coppit/unraid-snmp/master/snmp.plg</PluginURL>
+<PluginAuthor>coppit</PluginAuthor>
+<Beta>False</Beta>
+<Category>Tools:System</Category>
+<Name>SNMP</Name>
+<Description>
+SNMP is a standard way to get raw data from devices, for monitoring purposes. With this package, you can hook your UNRAID server up to a monitor, and track things like network usage, cpu activity, even user logins.
+</Description>
+<Support>http://lime-technology.com/forum/index.php?topic=41019.0</Support>
+<Icon>https://raw.githubusercontent.com/Squidly271/coppit-s-plugin-repository/master/snmp.png</Icon>
+</Containers>
